@@ -1,0 +1,4 @@
+1) cd "C:\Users\hp\OneDrive\Desktop\n8n"
+2) docker compose up -d
+3) open http://localhost:5678
+4) To stop:--> docker compose down

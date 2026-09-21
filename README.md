@@ -61,3 +61,5 @@ This project is an early step in that direction. Right now, it's an **AI-powered
 That is the transition I'm excited to explore.
 
 **Build → Automate → Observe → Improve.**
+
+[🎥 Watch the Demo Video](https://drive.google.com/file/d/1gauDtmP2bfje_Nxk1qpmLyUxa7wNUBug/view?usp=sharing)
